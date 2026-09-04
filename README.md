@@ -1,5 +1,7 @@
 **DIGAI** 🤞🏻
 ---
+<img width="1254" height="1254" alt="46486" src="https://github.com/user-attachments/assets/00ed3970-f33f-4abf-af7b-6b97f622c375" />
+
 DIGAI is a Termux-based AI coding assistant powered by the OpenRouter API.
 It can generate complete software projects with multiple files directly from your Android device.
 
