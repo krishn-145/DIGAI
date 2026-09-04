@@ -130,4 +130,4 @@ chmod +x digai.sh
 echo -e "${GREEN}[${current_time}] [✓] DIGAI starting...${NC}"
 echo
 
-exec bash ./digai.sh
+exec ./digai.sh
