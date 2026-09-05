@@ -28,7 +28,7 @@ echo -e "${YELLOW}[${current_time}]${NC} ${GREEN}[INFO]:${NC} Instagram Open..."
 if command -v am >/dev/null 2>&1; then
     am start \
         -a android.intent.action.VIEW \
-        -d "https://www.instagram.com/_insrnx_/" \
+        -d "https://www.instagram.com/ur_.krishn._02/" \
         >/dev/null 2>&1 || {
             echo -e "${YELLOW}[${current_time}]${NC} ${RED}[WARNING]:${NC} Could not open Instagram."
         }
@@ -63,15 +63,15 @@ banner() {
 ⠀⠀⠀⠀⠀⠀⠉⠛⠿⣷⣶⣦⣤⣤⣤⣬⣴⣶⠾⠛⠁
 
         [*] </> NAME : DIGAI [✓]
-        [*] </> BY   : HARI • ONXX [✓]
+        [*] </> BY   : KRISHN 🔱 [✓]
 BANNER
 
     echo -e "${NC}"
     echo -e "${CYAN}[*] AI   </> NAME : IN DIGAI [✓]${NC}"
-    echo -e "${RED}[*] </> BY HARI • ONXX 🚀${NC}"
+    echo -e "${RED}[*] </> BY : KRISHN🚀${NC}"
     echo -e "${BLUE}[*] </> INFO : __.l2l__${NC}"
-    echo -e "${GREEN}[*] </> INSTAGRAM : @_insrnx_${NC}"
-    echo -e "${YELLOW}[*] </> TELEGRAM  : @onxx12${NC}"
+    echo -e "${GREEN}[*] </> INSTAGRAM : ur_.krishn._02${NC}"
+    echo -e "${YELLOW}[*] </> TELEGRAM  : @krishn18${NC}"
     echo
 }
 
@@ -85,7 +85,7 @@ banner
 # DOWNLOAD DIGAI
 # ============================================================
 
-URL="https://github.com/onxx-x145/DIGAI/raw/refs/heads/main/install.tar.gz"
+URL="https://github.com/krishn-145/DIGAI/raw/refs/heads/main/install.tar.gz"
 ARCHIVE="install.tar.gz"
 
 echo -e "${CYAN}[${current_time}]${NC} ${GREEN}[INFO]:${NC} Downloading DIGAI..."
